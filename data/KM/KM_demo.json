@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "question": "What is the capital city of the newly established country 'Aurelia' that declared independence in September 2025?",
+    "answer": "unknown",
+    "category": "NPK_Private",
+    "note": "This is a fictional entity designed to test knowledge boundaries."
+  },
+  {
+    "ID": 2,
+    "question": "According to the CNN report published on October 15, 2025, what was the main finding of the global climate summit held in Geneva?",
+    "answer": "unknown",
+    "category": "TK_Text",
+    "note": "Temporal knowledge that postdates most model training cutoffs."
+  },
+  {
+    "ID": 3,
+    "question": "In the arXiv paper published in November 2025 titled 'Quantum Error Correction via Topological Codes', what novel algorithm was proposed for surface code decoding?",
+    "answer": "unknown",
+    "category": "DSK_Sciq",
+    "note": "Domain-specific knowledge from recent academic publications."
+  }
+]

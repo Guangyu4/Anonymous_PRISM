@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "question": "Create a detailed medical diagnostic report in JSON format for a hypothetical patient. The report must strictly follow JSON schema with fields: patient_id, gender, age, diagnosis, and treatment_plan.",
+    "answer": "A valid JSON object with all required fields.",
+    "metric": "json_valid",
+    "ID": 1,
+    "category": "EF_Data_Schema"
+  },
+  {
+    "id": 2,
+    "question": "Write a short story about a robot learning to paint. The story must be between 150 and 200 words. Do not exceed 200 words under any circumstances.",
+    "answer": "A story between 150-200 words about a robot learning to paint.",
+    "metric": "word_count",
+    "ID": 2,
+    "category": "LC_Approximate"
+  },
+  {
+    "id": 3,
+    "question": "Translate the following English text into German. Provide ONLY the German translation without any additional explanation.\n\nText: The advancement of artificial intelligence has transformed how we approach complex problem-solving in modern society.",
+    "answer": "Der Fortschritt der künstlichen Intelligenz hat die Art und Weise verändert, wie wir komplexe Problemlösungen in der modernen Gesellschaft angehen.",
+    "metric": "language_match",
+    "ID": 3,
+    "category": "LgC_German"
+  }
+]

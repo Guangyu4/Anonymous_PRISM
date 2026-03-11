@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "question": "Read the following passage and summarize the key arguments in no more than 3 sentences.\n\nPassage: The debate over renewable energy subsidies has intensified in recent years. Proponents argue that subsidies are essential for accelerating the transition to clean energy, reducing carbon emissions, and creating green jobs. Critics counter that subsidies distort market signals, burden taxpayers, and may prop up inefficient technologies...",
+    "answer": "The passage discusses the debate over renewable energy subsidies, with proponents citing environmental and economic benefits, while critics argue they distort markets and burden taxpayers.",
+    "category": "IIF_Summarize",
+    "metric": "rouge"
+  },
+  {
+    "ID": 2,
+    "question": "Solve the following math problem step by step:\nA factory produces 240 units per day. If production increases by 15% each month for 3 months, how many units will be produced per day at the end of the 3rd month? Round to the nearest whole number.",
+    "answer": "365",
+    "category": "MRF_Mathematics",
+    "metric": "exact_match"
+  },
+  {
+    "ID": 3,
+    "question": "Given the following premises, determine if the conclusion logically follows:\nPremise 1: All mammals are warm-blooded.\nPremise 2: All whales are mammals.\nPremise 3: Some warm-blooded animals can fly.\nConclusion: Some whales can fly.\n\nAnswer with 'Valid' or 'Invalid' and explain your reasoning.",
+    "answer": "Invalid",
+    "category": "LF_Critical_Reasoning",
+    "metric": "exact_match"
+  }
+]

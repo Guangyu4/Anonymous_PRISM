@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "question": "The title \"Romance of the Three Kingdoms\" is shared by multiple different works. Focusing only on the specific work described below, identify the precise genre of that work.\n\nTitle of the work in this context: Romance of the Three Kingdoms\nContext description:\nRomance of the Three Kingdoms () is a 14th-century historical novel attributed to Luo Guanzhong. It is set in the turbulent years towards the end of the Han dynasty and the Three Kingdoms period in Chinese history...",
+    "Answer": "historical novella"
+  },
+  {
+    "ID": 2,
+    "question": "The title \"Mamma\" is shared by multiple different works. Focusing only on the specific work described below, identify the precise genre of that work.\n\nTitle of the work in this context: Mamma (1982 film)\nContext description:\nMamma (also released as Our Life Is Now) is a 1982 Swedish drama film directed by Suzanne Osten...",
+    "Answer": "drama movie"
+  },
+  {
+    "ID": 3,
+    "question": "The title \"Social Distortion\" is shared by multiple different works. Focusing only on the specific work described below, identify the precise genre of that work.\n\nTitle of the work in this context: Social Distortion\nContext description:\nSocial Distortion is an American punk rock band formed in 1978 in Fullerton, California...",
+    "Answer": "rock 'n' roll; punk rock music"
+  }
+]
